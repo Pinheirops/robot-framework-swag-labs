@@ -1,6 +1,6 @@
-# Robot Framework - Sauce Demo
+# Robot Framework - Swag Labs 
  
-Projeto de automação de testes end-to-end para o site [Swag Labs (SauceDemo)](https://www.saucedemo.com/), utilizando Robot Framework e SeleniumLibrary.
+Automação de testes end-to-end para o site [Swag Labs (SauceDemo)](https://www.saucedemo.com/), utilizando Robot Framework e SeleniumLibrary.
  
 > Para objetivo, escopo e estratégia dos testes, consulte o [Plano de Testes](TEST_PLAN.md).
  
